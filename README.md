@@ -1,0 +1,3 @@
+A website that predictability of  the probaability of forest fire taking place based on oxygen,temperature and humidity content
+This project leverages logistic regression to predict the likelihood of forest fires based on historical data. By analyzing features such as weather conditions and vegetation types, the model provides probability predictions to help in proactive fire management. The project includes data loading, model training, prediction, and saving/loading of the model using Python libraries such as NumPy, pandas, scikit-learn, and pickle. To use this project, ensure the dataset (Forest_fire.csv) is in the project directory, run the provided script to train the model and make predictions, and utilize the saved model for future predictions.
+
