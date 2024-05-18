@@ -27,5 +27,3 @@ def predict():
         return render_template('forest_fire.html',pred='Your Forest is safe.\n Probability of fire occuring is {}'.format(output),bhai="Your Forest is Safe for now")
 
 
-if __name__ == '__main__':
-    app.run(debug=True)
